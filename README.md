@@ -1,0 +1,2 @@
+# Simulador-Interactivo
+este es un simulador interactivo de adivinanza donde el progama escoge un numero al azar entre el 1 y 100, el usuario debe intentar adivinar el numero escogido por el progama, si el numero ingresado por el usuario es menor al ya escogido por el progama saltara una alerta que diga que el numero es bastante pequeño, al caso contrario saltara un aviso que diga que el numero es muy grande
